@@ -28,7 +28,7 @@ The project uses a round-robin algorithm by default, but can be configured for m
 
 -Spin up your 3 ubuntu servers. Ensure you clearly name them so you don't make mistakes.
 
-![server](image.png)
+![alt text](image-11.png)
 
 
 Install Nginx and Setup Your Website
